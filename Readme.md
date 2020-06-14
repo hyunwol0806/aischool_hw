@@ -7,3 +7,6 @@
  ## 2주차 과제 (2020.06.08)
  
  -[파이썬과 인공지능 기초수학](https://github.com/hyunwol0806/aischool_hw/blob/master/week2_hw.ipynb)
+ 
+ ## 3주차 과제 (2020.06.14)
+ -[학습률 최적화, 군집 분석 구현, Cost Function 구현](https://github.com/hyunwol0806/aischool_hw/blob/master/week3_hw.ipynb)
